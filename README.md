@@ -2,6 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=So+glad+we+met!)
 ## My stats :part_alternation_mark:
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=NooberCong&show_icons=true&theme=dark)
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NooberCong&theme=dark)](https://git.io/streak-stats)
 ## My toolbox :hammer_and_wrench:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooberCong&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
