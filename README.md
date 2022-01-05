@@ -4,6 +4,6 @@
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=NooberCong&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NooberCong&theme=dark)](https://git.io/streak-stats)
 ## My toolbox
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooberCong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooberCong&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## I'm a code warrior :muscle:
 <img src= "https://www.codewars.com/users/NooberCong/badges/micro" width= "200"/>
