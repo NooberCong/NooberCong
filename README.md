@@ -1,5 +1,5 @@
 # Welcome :wave:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=If+you+read+this+very+long+message+all+the+way+down+here.+Congratulations,+you+just+wasted+a+minute+of+your+precious+life...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Nice,+you+found+me...)](https://git.io/typing-svg)
 ## Follow me 
 [![GitHub followers](https://img.shields.io/github/followers/NooberCong.svg?style=social&label=Followers)](https://github.com/NooberCong?tab=followers)
 ## My stats
