@@ -1,5 +1,5 @@
 # Welcome :wave:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Nice,+you+found+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Finally,+I+knew+we+would+meet)](https://git.io/typing-svg)
 ## My stats :part_alternation_mark:
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=NooberCong&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NooberCong&theme=dark)](https://git.io/streak-stats)
