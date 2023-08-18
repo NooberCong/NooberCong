@@ -1,5 +1,4 @@
 # Hi, I'm Cong, a proud developer :wave:
-## My stats :part_alternation_mark:
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=NooberCong&show_icons=true&theme=dark)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NooberCong&theme=dark)](https://git.io/streak-stats)
