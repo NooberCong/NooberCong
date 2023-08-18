@@ -1,5 +1,4 @@
-# Hi, i'm Cong :wave:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=So+glad+we+met!)
+# Hi, I'm Cong, a proud developer :wave:
 ## My stats :part_alternation_mark:
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=NooberCong&show_icons=true&theme=dark)
 <br>
