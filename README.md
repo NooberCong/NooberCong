@@ -4,8 +4,8 @@
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=NooberCong&show_icons=true&theme=dark)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NooberCong&theme=dark)](https://git.io/streak-stats)
-## My toolbox :hammer_and_wrench:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooberCong&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## My toolbox (Learning more and more everyday) :hammer_and_wrench:
+[![My Skills](https://skillicons.dev/icons?i=cs,java,dart,js,ts,go,py,solidity,dotnet,nodejs,spring,django,react,redux,flutter,postgres,mongodb,redis,rabbitmq,azure,firebase,aws,docker)](https://skillicons.dev)
 ## I'm a code warrior :shield:
 [<img src= "https://www.codewars.com/users/NooberCong/badges/large" width= "400"/>](https://www.codewars.com/users/NooberCong)
 ## I'm also into developing algorithmic trading tools :chart_with_upwards_trend:
