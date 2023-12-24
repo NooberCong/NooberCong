@@ -7,7 +7,7 @@
 ## I'm a code warrior :shield:
 [<img src= "https://www.codewars.com/users/NooberCong/badges/large" width= "400"/>](https://www.codewars.com/users/NooberCong)
 ## I also develop algorithmic trading tools :chart_with_upwards_trend:
-[<img src= "https://c.mql5.com/avatar/2023/7/64c24d56-2cf0_big.png" width= "200"/>](https://www.mql5.com/en/users/noobercong)
+[<img src= "https://c.mql5.com/avatar/2023/12/65870149-6258_big.png" width= "200"/>](https://www.mql5.com/en/users/noobercong)
 ## Some of my contributions to the community :medal_sports:
 [<img src= "https://lh3.googleusercontent.com/nzWi3WmYgS3HARszP2muKxgRSarz5542kkgMkOyuIGKKmJiLn7ej9pd-BaAmu-wUen1Yz8MgzOUld5oTcGenCUpV2w=w128-h128-e365-rj-sc0x00ffffff" width= "50"/>](https://chrome.google.com/webstore/detail/coursera-auto-grade/dhilaplakgolmkllgaoiodmfcbmidalf)
 [<img src= "https://lh3.googleusercontent.com/uTguMYS33JMvdhvJuvjHRBfZoauJjoJFhcPkStHsuu4hUNv67fsJrUYvuuriyOrj2oc9EWFgZyTH_obYFr7wVcEI3w=w128-h128-e365-rj-sc0x00ffffff" width= "50"/>](https://chrome.google.com/webstore/detail/edunext-auto-star/ndihnkpljccejlopfngigdlnfmfgpmfk)
